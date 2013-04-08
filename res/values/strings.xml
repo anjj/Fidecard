@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fidecard</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="foto">Foto</string>
+
+    <!-- SCAN -->
+	<string name="scan_text">Puedes escanear los códigos QR que se encuentran en las etiquetas de los establecimientos para conocer las ventajas que te ofrece</string>
+	<string name="scan_button">Escanear Ahora</string>
+	
+	
+	<!-- SHARE MENU -->
+	<string name="share">Compartir</string>	
+    
+	<!-- MENUS -->
+	<string name="viewMap">Mapa</string>
+	<string name="viewQR">QR</string>
+	<string name="viewList">Lista</string>
+	<string name="info">Info</string>
+	<string name="category">Categorias</string>
+	<string name="subcategory">Subcatergorias</string>
+	
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/viewMap"
+          android:title="@string/viewMap"
+          android:icon="@drawable/compass"
+          android:showAsAction="always" />
+    <item android:id="@+id/scanQR"
+          android:title="@string/viewQR"
+          android:icon="@drawable/qr_ico"
+          android:showAsAction="always" />
+</menu>

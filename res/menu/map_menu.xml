@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   	<item android:id="@+id/menucategory"
+          android:title="@string/category"
+          android:icon="@drawable/list"
+          android:showAsAction="always">
+          <menu></menu>
+    </item>
+   	<item android:id="@+id/scanQR"
+          android:title="@string/viewList"
+          android:icon="@drawable/qr_ico"
+          android:showAsAction="ifRoom|withText">
+    </item>   
+</menu>
